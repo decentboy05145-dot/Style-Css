@@ -1,0 +1,25 @@
+.title {
+    background-color: #0096FF;   /* bright blue */
+    color: blue;
+    padding: 10px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.purple-text {
+    color: purple;
+    margin-top: 10px;
+}
+
+.yellow-box {
+    background-color: yellow;
+    padding: 8px;
+    color: #cc6600; /* brownish text */
+}
+
+.green-box {
+    background-color: #cce8d5;  /* light green */
+    padding: 8px;
+    color: black;
+}
+`
